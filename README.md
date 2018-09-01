@@ -1,3 +1,9 @@
 # germanfica.github.io
+This repository shows my personal portfolio
 
-Welcome back((:
+## Credits
+- [Vincent Garreau](https://vincentgarreau.com/)
+- [German Fica](https://www.instagram.com/germanfica/)
+
+## Licence
+[MIT](https://opensource.org/licenses/MIT)
