@@ -512,3 +512,41 @@ img {
     width: 100%;
     left: 0;
     text-align: center; }
+
+/* ------------------------------------- */
+/* Media queries     ................... */
+/* ------------------------------------- */
+
+@media screen and (max-width: 514px) {
+
+  .h-content {
+    top: 22vh;
+  }
+  
+  .portfolio {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .social_tab {
+    display: block;
+    text-align: center;
+    width: 100%;
+  }
+
+  .social_tab .social_icons {
+    padding-left: 0;
+  }
+
+  .social_icons li:last-child {
+    display: block;
+    padding-top: 12px;
+    text-decoration: underline;
+    font-weight: bold;
+  }
+
+  .social_icons li:last-child:hover {
+    text-decoration: none;
+  }
+
+}
