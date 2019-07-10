@@ -263,20 +263,6 @@ ul {
   padding: 10px 10%;
   color: #fff; }
 
-.h-content-fullwidth {
-  position: relative;
-  z-index: 0;
-  top: 36vh;
-  width: 100%;
-  padding: 10px 10%;
-  color: #fff; }
-
-.main-logo {
-  position: absolute;
-  top: 8%;
-  max-width: 150px;
-  left: 10%; }
-
 /* ------------------------------------- */
 /* Bootstrap styles ................... */
 /* ------------------------------------- */
