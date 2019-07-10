@@ -251,12 +251,13 @@ ul {
 /* Home ................... */
 /* ------------------------------------- */
 #home, #homeCenter {
+  padding-top:130px;
   width: 100%;
   height: 100%;
   z-index: 1; }
 
 .h-content {
-  position: relative;
+  /*position: relative;*/
   z-index: 0;
   top: 32vh;
   width: 10px 100%;
