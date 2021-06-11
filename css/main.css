@@ -813,3 +813,65 @@ section.home-decoration {
 section.latest-works {
     background-color: #fff;
 }
+
+.text-center {
+    text-align: center!important
+}
+
+.title {
+    position: relative;
+    padding: 0 0 0px;
+}
+
+.title:before {
+    width: 75px;
+    height: 6px;
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    background-color: #F61067;
+    transform: translateX(-50%)
+}
+
+
+/* ------------------------------------- */
+
+
+/* Card     ............................ */
+
+
+/* ------------------------------------- */
+
+.card {
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, .125);
+    border-radius: .25rem;
+}
+
+.card-body {}
+
+.card-title {}
+
+.card-text {}
+
+.card-img-left {}
+
+.card-img-right {}
+
+.project-card {
+    margin: auto;
+    width: 25rem;
+    box-shadow: 0 0 16px 0 rgba(0, 0, 0, 0.2)!important;
+}
